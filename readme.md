@@ -7,3 +7,8 @@ Meu primeiro projeto utilizando o **Git e Github**.
 ## Sessão A
 
 - Adicionando mais modificações ao Readme.md
+
+### Sessão B
+
+-Adicionando uma nova branch (ou braço de trabalho)
+
