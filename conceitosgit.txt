@@ -1,0 +1,8 @@
+funcionalidades com Git
+
+git status - exibe o status dos arquivos
+git add . - coloca os arquivos modificados no stage
+git commit -m "  - entre aspas simples insere uma mensagem a cada commit
+git push origin main - main é o branch principal, main pode ser substituido por qualquer outro nome de sua preferencia
+git checkout -b "> use o -b para adicionar uma nova branch, o nome da nova branch é colocado entre aspas simples
+git checkout main - para alternas entre branchs não é necessário usar o -B
